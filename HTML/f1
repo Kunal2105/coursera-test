@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>first</title>
+</head>
+<body>
+<h1> html page</h1>
+<p>
+enter your 
+<input type="text" id ="name">
+<button> go</button>
+</p>
+<script src="jss.js"></script>
+
+</body>
+</html>
